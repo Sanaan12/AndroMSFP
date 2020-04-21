@@ -3,7 +3,7 @@ This Is Quick Metasploit And Apktool Hacking Script This will Create  A Original
 Hi There This Is Quick Metasploit Script         Coded By Sanaan12
 
 This is How it Works
-
+First open the andromsfp Folder
 Edit the start file with a notepad And Do The Steps Given Below
 
 THEN IN "YOUAPKFILELOCATION" enter the location where your original apk is stored
