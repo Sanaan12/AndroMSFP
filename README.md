@@ -8,9 +8,9 @@ Edit the start file with a notepad And Do The Steps Given Below
 
 THEN IN "YOUAPKFILELOCATION" enter the location where your original apk is stored
 
-AND IN "YOURIP" ENTER THE YOUR IP ADDRESS and Thats it you create a backdoor.apk in the Desktop
+AND IN "YOURIP" ENTER THE YOUR IP ADDRESS AND SAVE IT Thats it you create a backdoor.apk in the Desktop
 
-AND SAVE IT. THATS IT GIVE PERMISSON ON THE TERMINAL BY TYPING chmod +x start thats the END
+AND GIVE PERMISSON ON THE TERMINAL BY TYPING chmod +x start AND  ./start
 
 
 
